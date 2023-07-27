@@ -1,3 +1,0 @@
-instal laravel passport 
-https://laravel.com/docs/10.x/passport#installation
-bikin Model dan Controller Authentication
